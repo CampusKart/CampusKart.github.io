@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Campus Kart Blog</title>
+    <description>Este blog detalla nuestra experiencia en desarrollo del proyecto de Campus Kart
+</description>
+    <link>http://yourdomain.com/</link>
+    <atom:link href="http://yourdomain.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 17 Feb 2016 16:01:16 -0700</pubDate>
+    <lastBuildDate>Wed, 17 Feb 2016 16:01:16 -0700</lastBuildDate>
+    <generator>Jekyll v3.1.1</generator>
+    
+      <item>
+        <title>Junta de compras</title>
+        <description>&lt;p&gt;Hoy se llevo a cabo la junta de compras pata ver que materiales y componentes eran necesarios para la construccion del vehiculo.Surgieron todo tipo de ideas desde propuestas conservadoras hasta propuestas locas,
+pero ninguna propuesta asi es mala,y tampoco era como si no tuvieramos idea de que comprar,simplemente durante la junta surgieron nuevas ideas o valor agregado al vehiculo
+entre estos componentes con valor agregado se propuso una camara 360
+&lt;img src=&quot;http://i.imgur.com/URguW8a.jpg&quot; alt=&quot;Camara 360&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jan 2016 11:39:17 -0700</pubDate>
+        <link>http://yourdomain.com/juntas/2016/01/11/Junta-de-compras.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/juntas/2016/01/11/Junta-de-compras.html</guid>
+        
+        
+        <category>Juntas</category>
+        
+      </item>
+    
+      <item>
+        <title>Nuevos Comienzos</title>
+        <description>&lt;p&gt;El dia de hoy se inicio con el proyecto de campus kart,tuvimos una pequeña introduccion al programa,fechas de entrega y esquema de revision asi como una idea general de los requerimientos para el proyecto.&lt;/p&gt;
+
+&lt;p&gt;En los intermedios de la platica se nos dio tiempo para presentarnos entre nosotros,nuestra carrera y nuestra area de experiencia con lo cual supimos que podia aportar al proyecto cada uno.&lt;/p&gt;
+
+&lt;p&gt;Esperamos con este blog mostrar como fue el desarrollo del proyecto,asi como que pasos y acciones tuvimos para resolver los problemas que se nos pusieron en frente.Esperemos se de ayuda para alguien a futuro&lt;/p&gt;
+
+&lt;p&gt;-Equipo Campus Kart-&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jan 2016 11:39:17 -0700</pubDate>
+        <link>http://yourdomain.com/campus/kart/2016/01/11/nuevos-comienzos.html</link>
+        <guid isPermaLink="true">http://yourdomain.com/campus/kart/2016/01/11/nuevos-comienzos.html</guid>
+        
+        
+        <category>Campus</category>
+        
+        <category>Kart</category>
+        
+      </item>
+    
+  </channel>
+</rss>
